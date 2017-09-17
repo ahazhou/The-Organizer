@@ -1,0 +1,45 @@
+﻿<Window x:Class="Test.Views.ObjectListView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test.Views"
+        xmlns:viewmodel="clr-namespace:Test.ViewModels"
+        mc:Ignorable="d"
+        Title="Object Info" Height="300" Width="300">
+    <Window.DataContext>
+        <viewmodel:ObjectListViewModel/>
+    </Window.DataContext>
+    
+    <Window.Resources>
+        <local:ForDummyConverter x:Key="dummyconverter"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <ListView Grid.Row="0" ItemsSource="{Binding TestCollection, Converter={StaticResource dummyconverter}}" ScrollViewer.CanContentScroll="False">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <StackPanel>
+                            <TextBlock Text="{Binding Name}" FontSize="10" FontWeight="Bold" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Grid Grid.Row="1" Background="WhiteSmoke">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="AddObject" Click="AddObject_Click" Height="20" Width="100" VerticalAlignment="Center" Margin="0,0,30,0">
+                    <TextBlock Text="Add Object" VerticalAlignment="Center"/>
+                </Button>
+                <Button x:Name="CustomizeDataEntry" Click="CustomizeDataEntry_Click" Height="20" Width="100" VerticalAlignment="Center">
+                    <TextBlock Text="Customize Types" VerticalAlignment="Center"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,77 @@
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\AddObjectView.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\CustomizeDataEntryView.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\ObjectListView.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\App.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\AddObjectView.baml
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\CustomizeDataEntryView.baml
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Views\ObjectListView.baml
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\ObjectList.csproj.GenerateResource.Cache
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Arnold\Desktop\Test Project\Test\bin\Debug\Test.exe.config
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test.exe
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test.pdb
+C:\Users\Arnold\Desktop\Test Project\Test\bin\Debug\Test.exe
+C:\Users\Arnold\Desktop\Test Project\Test\bin\Debug\Test.pdb
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\ObjectList.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\AddObjectView.g.cs
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\CustomizeDataEntryView.g.cs
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\ObjectListView.g.cs
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\App.g.cs
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\AddObjectView.baml
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\CustomizeDataEntryView.baml
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Views\ObjectListView.baml
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test.g.resources
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Arnold\Desktop\Test Project\Test\obj\Debug\ObjectList.csproj.GenerateResource.Cache
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\AddObjectView.g.cs
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\CustomizeDataEntryView.g.cs
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\ObjectListView.g.cs
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\App.g.cs
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test.exe
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test.pdb
+C:\Users\Arnold\Desktop\Project\Test\bin\Debug\Test.exe.config
+C:\Users\Arnold\Desktop\Project\Test\bin\Debug\Test.exe
+C:\Users\Arnold\Desktop\Project\Test\bin\Debug\Test.pdb
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\ObjectList.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\AddObjectView.baml
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\CustomizeDataEntryView.baml
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Views\ObjectListView.baml
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test.g.resources
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Arnold\Desktop\Project\Test\obj\Debug\ObjectList.csproj.GenerateResource.Cache
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\bin\Debug\Test.exe.config
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\bin\Debug\Test.exe
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\bin\Debug\Test.pdb
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\AddObjectView.g.cs
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\CustomizeDataEntryView.g.cs
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\ObjectListView.g.cs
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\App.g.cs
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\AddObjectView.baml
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\CustomizeDataEntryView.baml
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Views\ObjectListView.baml
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test.g.resources
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\ObjectList.csproj.GenerateResource.Cache
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\ObjectList.csproj.CoreCompileInputs.cache
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test.exe
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\obj\Debug\Test.pdb
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\bin\Debug\Test.exe.CodeAnalysisLog.xml
+C:\Users\arnol\Desktop\Coding\umake-organize-7311c72e19e3\Test\bin\Debug\Test.exe.lastcodeanalysissucceeded

@@ -1,0 +1,17 @@
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Little Intern\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\App.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.g.resources
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\AddObjectView.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\ObjectListView.g.cs
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\AddObjectView.baml
+C:\Users\Little Intern\Desktop\Test\Test\obj\Debug\ObjectListView.baml

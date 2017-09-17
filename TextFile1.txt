@@ -1,0 +1,10 @@
+Graduation	Tank	AP	TOP	6300
+Blind pig	Mage	AP	MID	4800
+Stamps	Jungler	AP	JUNGLE	1350
+MAASU	ADC	AD	BOT	6300
+TEDx UofM	ADC	AD	BOT	4800
+Women's Volleyball	Bruiser	AD	TOP	4800
+Women's Field Hockey	AP	TOP	450
+Mathematics discussion	Tank	AD	TOP	1350
+Public library discussion	Support	AP	BOT	6300
+Deer Problem AA	Jungler	AP	JUNGLE	1350
